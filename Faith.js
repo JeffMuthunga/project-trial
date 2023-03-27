@@ -2,7 +2,11 @@ import React from 'react'
 
 function Faith() {
   return (
-    <div>Faith</div>
+    <div>
+      <h1>Hello Faith</h1>
+      <h2>This will be an interesting week</h2>
+    </div>
+    
   )
 }
 

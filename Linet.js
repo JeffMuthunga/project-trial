@@ -2,7 +2,10 @@ import React from 'react'
 
 function Linet() {
   return (
-    <div>Linet</div>
+    <div>
+      <h2>Linet Project Update</h2>
+      <p>This is a crowdfunding platform</p>
+    </div>
   )
 }
 
